@@ -1,0 +1,124 @@
+[2025-03-13 15:44:40.838] [info] == App started ==
+[2025-03-13 15:44:42.451] [info] == App started ==
+[2025-03-13 15:44:43.009] [info] Update channel:  latest
+[2025-03-13 15:44:43.010] [info] Update backup setting:  true
+[2025-03-13 15:44:43.010] [info] Update enabled auto-updates:  true
+[2025-03-13 15:44:46.963] [info] Update channel:  latest
+[2025-03-13 15:44:46.965] [info] Update backup setting:  true
+[2025-03-13 15:44:46.966] [info] Update enabled auto-updates:  true
+[2025-03-13 15:44:51.262] [info] Recurring check for updates.
+[2025-03-13 15:44:51.262] [info] Channel: latest
+[2025-03-13 15:44:51.263] [info] Enabled? => true
+[2025-03-13 15:44:51.263] [info] Checking for update
+[2025-03-13 15:44:51.269] [info] Generated new staging user ID: 088a0f39-5ff9-5c94-bc3d-8472d6e51459
+[2025-03-13 15:44:52.083] [info] Update for version 1.18.9 is not available (latest version: 1.18.9, downgrade is allowed).
+[2025-03-13 15:45:01.266] [info] Recurring check for updates.
+[2025-03-13 15:45:01.266] [info] Channel: latest
+[2025-03-13 15:45:01.267] [info] Enabled? => true
+[2025-03-13 15:45:01.267] [info] Checking for update
+[2025-03-13 15:45:01.779] [info] Update for version 1.18.9 is not available (latest version: 1.18.9, downgrade is allowed).
+[2025-03-13 15:45:11.275] [info] Recurring check for updates.
+[2025-03-13 15:45:11.276] [info] Channel: latest
+[2025-03-13 15:45:11.276] [info] Enabled? => true
+[2025-03-13 15:45:11.277] [info] Checking for update
+[2025-03-13 15:45:11.431] [info] Update for version 1.18.9 is not available (latest version: 1.18.9, downgrade is allowed).
+[2025-03-13 15:45:21.285] [info] Recurring check for updates.
+[2025-03-13 15:45:21.285] [info] Channel: latest
+[2025-03-13 15:45:21.286] [info] Enabled? => true
+[2025-03-13 15:45:21.286] [info] Checking for update
+[2025-03-13 15:45:21.394] [info] Update for version 1.18.9 is not available (latest version: 1.18.9, downgrade is allowed).
+[2025-03-13 15:45:31.292] [info] Recurring check for updates.
+[2025-03-13 15:45:31.293] [info] Channel: latest
+[2025-03-13 15:45:31.293] [info] Enabled? => true
+[2025-03-13 15:45:31.293] [info] Checking for update
+[2025-03-13 15:45:31.393] [info] Update for version 1.18.9 is not available (latest version: 1.18.9, downgrade is allowed).
+[2025-03-13 15:45:41.299] [info] Recurring check for updates.
+[2025-03-13 15:45:41.299] [info] Channel: latest
+[2025-03-13 15:45:41.299] [info] Enabled? => true
+[2025-03-13 15:45:41.300] [info] Checking for update
+[2025-03-13 15:45:41.922] [info] Update for version 1.18.9 is not available (latest version: 1.18.9, downgrade is allowed).
+[2025-03-13 15:45:51.308] [info] Recurring check for updates.
+[2025-03-13 15:45:51.308] [info] Channel: latest
+[2025-03-13 15:45:51.309] [info] Enabled? => true
+[2025-03-13 15:45:51.309] [info] Checking for update
+[2025-03-13 15:45:52.058] [info] Update for version 1.18.9 is not available (latest version: 1.18.9, downgrade is allowed).
+[2025-03-13 15:46:01.315] [info] Recurring check for updates.
+[2025-03-13 15:46:01.316] [info] Channel: latest
+[2025-03-13 15:46:01.316] [info] Enabled? => true
+[2025-03-13 15:46:01.316] [info] Checking for update
+[2025-03-13 15:46:01.404] [info] Update for version 1.18.9 is not available (latest version: 1.18.9, downgrade is allowed).
+[2025-03-13 15:46:11.326] [info] Recurring check for updates.
+[2025-03-13 15:46:11.326] [info] Channel: latest
+[2025-03-13 15:46:11.326] [info] Enabled? => true
+[2025-03-13 15:46:11.327] [info] Checking for update
+[2025-03-13 15:46:11.811] [info] Update for version 1.18.9 is not available (latest version: 1.18.9, downgrade is allowed).
+[2025-03-13 15:46:21.329] [info] Recurring check for updates.
+[2025-03-13 15:46:21.329] [info] Channel: latest
+[2025-03-13 15:46:21.330] [info] Enabled? => true
+[2025-03-13 15:46:21.330] [info] Checking for update
+[2025-03-13 15:46:22.563] [info] Update for version 1.18.9 is not available (latest version: 1.18.9, downgrade is allowed).
+[2025-03-13 15:46:31.337] [info] Recurring check for updates.
+[2025-03-13 15:46:31.337] [info] Channel: latest
+[2025-03-13 15:46:31.337] [info] Enabled? => true
+[2025-03-13 15:46:31.337] [info] Checking for update
+[2025-03-13 15:46:31.905] [info] Update for version 1.18.9 is not available (latest version: 1.18.9, downgrade is allowed).
+[2025-03-13 15:46:41.338] [info] Recurring check for updates.
+[2025-03-13 15:46:41.338] [info] Channel: latest
+[2025-03-13 15:46:41.338] [info] Enabled? => true
+[2025-03-13 15:46:41.339] [info] Checking for update
+[2025-03-13 15:46:42.110] [info] Update for version 1.18.9 is not available (latest version: 1.18.9, downgrade is allowed).
+[2025-03-13 15:46:51.345] [info] Recurring check for updates.
+[2025-03-13 15:46:51.346] [info] Channel: latest
+[2025-03-13 15:46:51.347] [info] Enabled? => true
+[2025-03-13 15:46:51.347] [info] Checking for update
+[2025-03-13 15:46:51.457] [info] Update for version 1.18.9 is not available (latest version: 1.18.9, downgrade is allowed).
+[2025-03-13 15:47:01.356] [info] Recurring check for updates.
+[2025-03-13 15:47:01.356] [info] Channel: latest
+[2025-03-13 15:47:01.356] [info] Enabled? => true
+[2025-03-13 15:47:01.356] [info] Checking for update
+[2025-03-13 15:47:01.445] [info] Update for version 1.18.9 is not available (latest version: 1.18.9, downgrade is allowed).
+[2025-03-13 15:47:11.366] [info] Recurring check for updates.
+[2025-03-13 15:47:11.366] [info] Channel: latest
+[2025-03-13 15:47:11.366] [info] Enabled? => true
+[2025-03-13 15:47:11.366] [info] Checking for update
+[2025-03-13 15:47:11.735] [info] Update for version 1.18.9 is not available (latest version: 1.18.9, downgrade is allowed).
+[2025-03-13 15:47:21.375] [info] Recurring check for updates.
+[2025-03-13 15:47:21.376] [info] Channel: latest
+[2025-03-13 15:47:21.376] [info] Enabled? => true
+[2025-03-13 15:47:21.376] [info] Checking for update
+[2025-03-13 15:47:22.093] [info] Update for version 1.18.9 is not available (latest version: 1.18.9, downgrade is allowed).
+[2025-03-13 15:47:31.379] [info] Recurring check for updates.
+[2025-03-13 15:47:31.379] [info] Channel: latest
+[2025-03-13 15:47:31.379] [info] Enabled? => true
+[2025-03-13 15:47:31.380] [info] Checking for update
+[2025-03-13 15:47:31.839] [info] Update for version 1.18.9 is not available (latest version: 1.18.9, downgrade is allowed).
+[2025-03-13 15:47:41.379] [info] Recurring check for updates.
+[2025-03-13 15:47:41.379] [info] Channel: latest
+[2025-03-13 15:47:41.379] [info] Enabled? => true
+[2025-03-13 15:47:41.380] [info] Checking for update
+[2025-03-13 15:47:41.470] [info] Update for version 1.18.9 is not available (latest version: 1.18.9, downgrade is allowed).
+[2025-03-13 15:47:51.389] [info] Recurring check for updates.
+[2025-03-13 15:47:51.389] [info] Channel: latest
+[2025-03-13 15:47:51.389] [info] Enabled? => true
+[2025-03-13 15:47:51.390] [info] Checking for update
+[2025-03-13 15:47:52.080] [info] Update for version 1.18.9 is not available (latest version: 1.18.9, downgrade is allowed).
+[2025-03-13 15:48:01.395] [info] Recurring check for updates.
+[2025-03-13 15:48:01.395] [info] Channel: latest
+[2025-03-13 15:48:01.396] [info] Enabled? => true
+[2025-03-13 15:48:01.396] [info] Checking for update
+[2025-03-13 15:48:01.527] [info] Update for version 1.18.9 is not available (latest version: 1.18.9, downgrade is allowed).
+[2025-03-13 15:48:11.400] [info] Recurring check for updates.
+[2025-03-13 15:48:11.401] [info] Channel: latest
+[2025-03-13 15:48:11.401] [info] Enabled? => true
+[2025-03-13 15:48:11.401] [info] Checking for update
+[2025-03-13 15:48:11.521] [info] Update for version 1.18.9 is not available (latest version: 1.18.9, downgrade is allowed).
+[2025-03-13 15:48:21.409] [info] Recurring check for updates.
+[2025-03-13 15:48:21.409] [info] Channel: latest
+[2025-03-13 15:48:21.409] [info] Enabled? => true
+[2025-03-13 15:48:21.409] [info] Checking for update
+[2025-03-13 15:48:21.852] [info] Update for version 1.18.9 is not available (latest version: 1.18.9, downgrade is allowed).
+[2025-03-13 15:48:31.418] [info] Recurring check for updates.
+[2025-03-13 15:48:31.418] [info] Channel: latest
+[2025-03-13 15:48:31.418] [info] Enabled? => true
+[2025-03-13 15:48:31.418] [info] Checking for update
+[2025-03-13 15:48:31.728] [info] Update for version 1.18.9 is not available (latest version: 1.18.9, downgrade is allowed).
